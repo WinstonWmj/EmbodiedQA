@@ -1,6 +1,6 @@
 # note
 > Download the SUNCG v1 dataset and install House3D.
-> 这里的下载搞不定，tool不见了，但是找到了另一个(民间仓库)[https://github.com/tinytangent/SUNCGtoolbox?tab=readme-ov-file#c++-toolbox]，但是这个仓库距离上次更新已经过去了7 years。
+> 这里的下载搞不定，tool不见了，但是找到了另一个[民间仓库](https://github.com/tinytangent/SUNCGtoolbox?tab=readme-ov-file#c++-toolbox)，但是这个仓库距离上次更新已经过去了7 years。
 > 因此对这个工作的复现就作罢了
 # EmbodiedQA
 
